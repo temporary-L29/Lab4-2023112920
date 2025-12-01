@@ -112,7 +112,7 @@ public class L2023112920_7_Test {
                 Arrays.asList(0, 1)
         );
         String result = solution.smallestStringWithSwaps(s, pairs);
-        assertEquals("ab", result);
+        assertEquals("ab删c", result);
     }
 
     /**
