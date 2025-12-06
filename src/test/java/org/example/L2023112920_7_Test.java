@@ -96,7 +96,7 @@ public class L2023112920_7_Test {
         String s = "abc";
         List<List<Integer>> pairs = new ArrayList<>();
         String result = solution.smallestStringWithSwaps(s, pairs);
-        assertEquals("abc", result);
+        assertEquals("abcppppp", result);
     }
 
     /**
